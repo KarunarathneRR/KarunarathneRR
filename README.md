@@ -14,7 +14,7 @@
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
 - 📄 Know about my experiences: [My Resume](https://mysliit-my.sharepoint.com/:b:/g/personal/it22284198_my_sliit_lk/EajjtdPNdYBBtEClE_X7X5QBkigQ82qhsxvUegsF3XMjWA?e=DRfmbg)
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" width="30%"/>
 - ⚡ Fun fact: **I think I am funny. 😄**
 
   
@@ -106,8 +106,8 @@
   <br>
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" border="0" width="39%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" border="0" width="37%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" border="0" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" border="0" width="40%" />
 </p>
 
 
