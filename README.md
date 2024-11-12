@@ -15,9 +15,9 @@
   
 - ⚡ Fun fact: **I think I am funny. 😄**
 
-<table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-        <td style="border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="border: none; width: 70%; vertical-align: top;">
       
   ## Connect with me:
 
@@ -104,10 +104,10 @@
     </a>
   </p>
     </td>
-    <td width="30%" valign="top">
+    <td style="border: none; width: 30%;" valign="top">
    <p align="center">
        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
   </p>
     </td>
-    </tr>
-    </table>
+  </tr>
+</table>
