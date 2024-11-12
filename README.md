@@ -20,19 +20,19 @@
 
 <div align="left">
   <a href="https://twitter.com/ravindurashmik4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" height="40" width="40" style="color: #1DA1F2;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/twitter.svg" alt="Twitter" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/ravindukarunarathne" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" style="color: #0077B5;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://fb.com/ravindu.rashmika.395" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" alt="Facebook" height="40" width="40" style="color: #1877F2;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://instagram.com/_ravindu_rashmika_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Instagram" height="40" width="40" style="color: #E4405F;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://discord.gg/BcmfZfXu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" alt="Discord" height="40" width="40" style="color: #7289DA;"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/discord.svg" alt="Discord" height="40" width="40" />
   </a>
 </div>
 
@@ -40,63 +40,63 @@
 
 <div align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" style="color: #563D7C"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/bootstrap.svg" alt="Bootstrap" width="40" height="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" alt="C" width="40" height="40" style="color: #00599C"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/c.svg" alt="C" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" alt="C++" width="40" height="40" style="color: #00599C"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/cplusplus.svg" alt="C++" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS3" width="40" height="40" style="color: #1572B6"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/css3.svg" alt="CSS3" width="40" height="40" />
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/dart.svg" alt="Dart" width="40" height="40" style="color: #00B4B6"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/dart.svg" alt="Dart" width="40" height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express.js" width="40" height="40" style="color: #000000"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/express.svg" alt="Express.js" width="40" height="40" />
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" alt="Flutter" width="40" height="40" style="color: #02569B"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/flutter.svg" alt="Flutter" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML5" width="40" height="40" style="color: #E34F26"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/html5.svg" alt="HTML5" width="40" height="40" />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" alt="Java" width="40" height="40" style="color: #007396"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/java.svg" alt="Java" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="color: #F7DF1E"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/javascript.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kotlin.svg" alt="Kotlin" width="40" height="40" style="color: #7F52FF"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/kotlin.svg" alt="Kotlin" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="MongoDB" width="40" height="40" style="color: #47A248"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/mongodb.svg" alt="MongoDB" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="MySQL" width="40" height="40" style="color: #4479A1"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/mysql.svg" alt="MySQL" width="40" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" style="color: #339933"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/node-js.svg" alt="Node.js" width="40" height="40" />
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/oracle.svg" alt="Oracle" width="40" height="40" style="color: #F80000"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/oracle.svg" alt="Oracle" width="40" height="40" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" width="40" height="40" style="color: #8C7D7D"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/php.svg" alt="PHP" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" alt="Python" width="40" height="40" style="color: #3776AB"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/python.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" width="40" height="40" style="color: #61DAFB"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/react.svg" alt="React" width="40" height="40" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sqlite.svg" alt="SQLite" width="40" height="40" style="color: #003B57"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/sqlite.svg" alt="SQLite" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" style="color: #38B2AC"/>
+    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
 </div>
