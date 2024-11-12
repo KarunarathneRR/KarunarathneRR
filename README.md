@@ -15,7 +15,7 @@
   
 - ⚡ Fun fact: **I think I am funny. 😄**
 
-<table style="border: none;">
+<table border=null>
   <tr>
     <td width="70%">
       
