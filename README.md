@@ -6,7 +6,7 @@
 
 ### A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Kotlin** for Android Development, **UI/UX Design (Figma)**
+- 🌱 I’m currently learning **MERN Stack for Web Development**, **Kotlin** for Android Development, **UI/UX Design (Figma)**
   
 - 💬 Ask me about **Java, MERN Stack, Kotlin**
    
