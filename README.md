@@ -103,7 +103,7 @@
   </div>
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" />
-  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" border="0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" border="0" />
 </p>
 
