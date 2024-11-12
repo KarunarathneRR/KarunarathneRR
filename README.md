@@ -15,6 +15,8 @@
   
 - ⚡ Fun fact: **I think I am funny. 😄**
 
+<table>
+  <tr>
     <td width="70%">
       
   ## Connect with me:
@@ -107,3 +109,5 @@
        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
   </p>
     </td>
+    </tr>
+    </table>
