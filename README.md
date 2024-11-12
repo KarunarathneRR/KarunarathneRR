@@ -14,6 +14,7 @@
 <table width="100%", border="0px">
   <tr>
     <td width="70%">
+      
   ## Connect with me:
 
   <p align="center">
@@ -100,10 +101,12 @@
   </p>
     </td>
     <td width="30%" valign="top">
-      ## About Me
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
-      </p>
+      
+  ## About Me
+    
+   <p align="center">
+       <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
+  </p>
     </td>
   </tr>
 </table>
