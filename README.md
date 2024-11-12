@@ -31,7 +31,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.rashmika.395" height="30" width="40" />
     </a>
     <a href="https://instagram.com/_ravindu_rashmika_" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ravindu_rashmika_" height="30" width="39" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ravindu_rashmika_" height="30" width="40" />
     </a>
     <a href="https://discord.gg/BcmfZfXu" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BcmfZfXu" height="30" width="40" />
@@ -106,7 +106,7 @@
   <br>
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" border="0" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" border="0" width="39%" />
   <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" border="0" width="37%" />
 </p>
 
