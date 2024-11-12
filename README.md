@@ -17,7 +17,7 @@
       
   ## Connect with me:
 
-  <p align="center">
+  <p align="left">
     <a href="https://twitter.com/ravindurashmik4" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravindurashmik4" height="30" width="40" />
     </a>
@@ -37,7 +37,7 @@
   
   ## Languages and Tools:
   
-  <p align="center">
+  <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
@@ -101,9 +101,6 @@
   </p>
     </td>
     <td width="30%" valign="top">
-      
-  ## About Me
-    
    <p align="center">
        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
   </p>
