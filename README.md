@@ -15,7 +15,7 @@
   
 - ⚡ Fun fact: **I think I am funny. 😄**
 
-      
+  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
   ## Connect with me:
 
   <div align="left">
@@ -100,8 +100,3 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
   </div>
-  
-  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
-  
-
-
