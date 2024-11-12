@@ -15,13 +15,10 @@
   
 - ⚡ Fun fact: **I think I am funny. 😄**
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="border: none; width: 70%; vertical-align: top;">
       
   ## Connect with me:
 
-  <p align="left">
+  <div align="left">
     <a href="https://twitter.com/ravindurashmik4" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravindurashmik4" height="30" width="40" />
     </a>
@@ -37,11 +34,11 @@
     <a href="https://discord.gg/BcmfZfXu" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BcmfZfXu" height="30" width="40" />
     </a>
-  </p>
+  </div>
   
   ## Languages and Tools:
   
-  <p align="left">
+  <div aligh="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
@@ -102,12 +99,9 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
-  </p>
-    </td>
-    <td style="border: none; width: 30%;" valign="top">
-   <p align="center">
-       <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
-  </p>
-    </td>
-  </tr>
-</table>
+  </div>
+  
+  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
+  
+
+
