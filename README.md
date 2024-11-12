@@ -15,9 +15,9 @@
   
 - ⚡ Fun fact: **I think I am funny. 😄**
 
-<table border=null>
-  <tr>
-    <td width="70%">
+<table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+        <td style="border: none;">
       
   ## Connect with me:
 
