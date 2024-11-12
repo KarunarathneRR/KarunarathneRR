@@ -1,8 +1,8 @@
-https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif
+<img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF">
 <h1 align="center">Hi 👋, I'm Ravindu Karunarathne</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunarathnerr&label=Profile%20views&color=0e75b6&style=flat" alt="karunarathnerr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karunarathnerr&label=Profile%20views&color=0e75b6&style=flat" alt="karunarathnerr" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js), Kotlin for Android Development, UI/UX Design (Figma)**
 
