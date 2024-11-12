@@ -99,12 +99,12 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
-  </div><!-- Left Aligned Image -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
-</p>
+  </div>
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" />
