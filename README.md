@@ -11,6 +11,7 @@
    
 - 📫 How to reach me: [rashmikapitigala@gmail.com](mailto:rashmikapitigala@gmail.com)
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
 - 📄 Know about my experiences: [My Resume](https://mysliit-my.sharepoint.com/:b:/g/personal/it22284198_my_sliit_lk/EajjtdPNdYBBtEClE_X7X5QBkigQ82qhsxvUegsF3XMjWA?e=DRfmbg)
   
 - ⚡ Fun fact: **I think I am funny. 😄**
@@ -18,7 +19,6 @@
   
 ## Connect with me:
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
   <div align="left">
     <a href="https://twitter.com/ravindurashmik4" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravindurashmik4" height="30" width="40" />
