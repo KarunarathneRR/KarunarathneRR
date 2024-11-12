@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif
 <h1 align="center">Hi 👋, I'm Ravindu Karunarathne</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences</h3>
 
