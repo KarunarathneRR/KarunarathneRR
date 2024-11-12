@@ -11,10 +11,10 @@
 - 📄 Know about my experiences: [My Resume](https://mysliit-my.sharepoint.com/:b:/g/personal/it22284198_my_sliit_lk/EajjtdPNdYBBtEClE_X7X5QBkigQ82qhsxvUegsF3XMjWA?e=DRfmbg)
 - ⚡ Fun fact: **I think I am funny. 😄**
 
-<table width="100%">
+<table width="100%", border="0px">
   <tr>
     <td width="70%">
-      ## Connect with me:
+  ## Connect with me:
 
   <p align="center">
     <a href="https://twitter.com/ravindurashmik4" target="_blank">
