@@ -8,12 +8,13 @@
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Kotlin** for Android Development, **UI/UX Design (Figma)**
   
 - 💬 Ask me about **Java, MERN Stack, Kotlin**
-   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
+   
 - 📫 How to reach me: [rashmikapitigala@gmail.com](mailto:rashmikapitigala@gmail.com)
-  
+  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
 - 📄 Know about my experiences: [My Resume](https://mysliit-my.sharepoint.com/:b:/g/personal/it22284198_my_sliit_lk/EajjtdPNdYBBtEClE_X7X5QBkigQ82qhsxvUegsF3XMjWA?e=DRfmbg)
   
 - ⚡ Fun fact: **I think I am funny. 😄**
+
   
   ## Connect with me:
 
