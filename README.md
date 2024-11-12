@@ -18,7 +18,7 @@
   
 ## Connect with me:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
   <div align="left">
     <a href="https://twitter.com/ravindurashmik4" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravindurashmik4" height="30" width="40" />
