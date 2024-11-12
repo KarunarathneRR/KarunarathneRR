@@ -103,14 +103,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
 </p>
-
-<!-- Center Aligned Image -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" />
-</p>
-
-<!-- Right Aligned Image -->
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" />
 </p>
 
