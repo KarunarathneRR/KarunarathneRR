@@ -102,8 +102,8 @@
   </div>
 <!-- Row 1: Two images side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karunarathnerr&show_icons=true&locale=en&layout=compact&theme=radical" alt="karunarathnerr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" />
 </p>
 
 <!-- Row 2: Single image centered under the first row -->
