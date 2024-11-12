@@ -1,9 +1,8 @@
 # Hi 👋, I'm Ravindu Karunarathne
-### A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences
-
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=karunarathnerr&label=Profile%20views&color=0e75b6&style=flat" alt="karunarathnerr" />
 </p>
+### A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences
 
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Kotlin** for Android Development, **UI/UX Design (Figma)**
   
@@ -101,6 +100,8 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
   </div>
+
+  
   
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" border="0" />
