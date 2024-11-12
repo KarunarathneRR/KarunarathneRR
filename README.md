@@ -98,6 +98,17 @@
 
 ## About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
+      </p>
+    </td>
+    <td width="30%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravindurashmik4" height="30" width="40" />
+      </p>
+    </td>
+  </tr>
+</table>
