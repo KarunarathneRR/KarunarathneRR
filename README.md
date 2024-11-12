@@ -101,14 +101,9 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
   </div>
-<!-- Row 1: Two images side by side -->
-<p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" />
-</p>
-
-<!-- Row 2: Single image centered under the first row -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunarathnerr&theme=radical" alt="karunarathnerr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karunarathnerr&show_icons=true&locale=en&theme=radical" alt="karunarathnerr" />
 </p>
 
