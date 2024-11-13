@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Ravindu Karunarathne
 
-### A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences
+### A Passionate Fullstack Developer from Sri Lanka 🇱🇰 | Crafting Engaging and User-Friendly Web Experiences
 
 - 🎓 Undergraduate, **BSc (Hons) in Information Technology, Specializing in Software Engineering**.
 
