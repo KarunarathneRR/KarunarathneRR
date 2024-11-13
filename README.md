@@ -1,6 +1,7 @@
-# Hi 👋, I'm Ravindu Karunarathne <p align="right">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=karunarathnerr&label=Profile%20views&color=0e75b6&style=flat" alt="karunarathnerr" />
 </p>
+# Hi 👋, I'm Ravindu Karunarathne 
 
 ### A Passionate Fullstack Developer from Sri Lanka 🇱🇰 | Crafting Engaging and User-Friendly Web Experiences
 
