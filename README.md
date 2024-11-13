@@ -1,8 +1,6 @@
-<p align="right">
+# Hi 👋, I'm Ravindu Karunarathne <p align="right">
   <img src="https://komarev.com/ghpvc/?username=karunarathnerr&label=Profile%20views&color=0e75b6&style=flat" alt="karunarathnerr" />
 </p>
-
-# Hi 👋, I'm Ravindu Karunarathne
 
 ### A Passionate Fullstack Developer from Sri Lanka 🇱🇰 | Crafting Engaging and User-Friendly Web Experiences
 
@@ -13,8 +11,6 @@
 - 🌱 Currently exploring **Web Development**, **Mobile Apps**, and **Open Source contributions**.
 
 - 📚 Always learning and seeking opportunities to grow in the tech industry.
-
-- 📍 Based in **Sri Lanka**.
   
 - 💬 Ask me about **Java, MERN Stack, Kotlin**.
    
