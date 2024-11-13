@@ -6,7 +6,15 @@
 
 ### A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences
 
-- 🌱 I’m currently learning **MERN Stack for Web Development**, **Kotlin** for Android Development, **UI/UX Design (Figma)**
+- 🎓 BSc IT (Hons) | Aspiring Software Engineer
+
+- 🔧 Passionate about software development, coding, and problem-solving.
+
+- 🌱 Currently exploring Web Development, Mobile Apps, and Open Source contributions.
+
+- 📚 Always learning and seeking opportunities to grow in the tech industry.
+
+- 📍 Based in Sri Lanka.
   
 - 💬 Ask me about **Java, MERN Stack, Kotlin**
    
