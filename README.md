@@ -6,17 +6,17 @@
 
 ### A Passionate Frontend Developer from Sri Lanka | Crafting Engaging and User-Friendly Web Experiences
 
-- 🎓 BSc IT (Hons) | Aspiring Software Engineer
+- 🎓 Undergraduate, **BSc (Hons) in Information Technology, Specializing in Software Engineering**.
 
-- 🔧 Passionate about software development, coding, and problem-solving.
+- 🔧 Passionate about **software development**, **coding**, and **problem-solving**.
 
-- 🌱 Currently exploring Web Development, Mobile Apps, and Open Source contributions.
+- 🌱 Currently exploring **Web Development**, **Mobile Apps**, and **Open Source contributions**.
 
 - 📚 Always learning and seeking opportunities to grow in the tech industry.
 
-- 📍 Based in Sri Lanka.
+- 📍 Based in **Sri Lanka**.
   
-- 💬 Ask me about **Java, MERN Stack, Kotlin**
+- 💬 Ask me about **Java, MERN Stack, Kotlin**.
    
 - 📫 How to reach me: [rashmikapitigala@gmail.com](mailto:rashmikapitigala@gmail.com)
   <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" />
