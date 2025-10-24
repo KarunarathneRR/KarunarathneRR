@@ -109,14 +109,14 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/insiders/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Visual_Studio_Code_Insiders_1.36_icon.svg" alt="VS Code Insiders" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Visual_Studio_Code_Insiders_1.36_icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/2048px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" alt="VS Code Insiders" width="40" height="40"/>
   </a>
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
