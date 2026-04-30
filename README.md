@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravindu%20Karunarathne&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravindu%20Karunarathne&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Sri%20Lanka%20%&descAlignY=55&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ravindu+%F0%9F%91%8B;Fullstack+Developer+%7C+Software+Engineer;I+build+web+apps+%26+mobile+apps;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
